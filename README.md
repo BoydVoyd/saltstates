@@ -1,1 +1,1 @@
-# All salt states
+# All salt states are great
