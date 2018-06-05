@@ -1,3 +1,3 @@
 dev:
   '*':
-    - users
+    - user.dev_user
