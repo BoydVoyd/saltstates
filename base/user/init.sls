@@ -1,4 +1,10 @@
 {% for user, data in pillar.get('admin_users', {}).items() %}
+group_{{ user }}:
+  group.present:
+    - name: {{ user }}
+    - gid: {{data['uid']}}
+    - system: True
+
 user_{{user}}:
   user.present:
     - name: {{ user }}

@@ -6,7 +6,7 @@ admin_users:
     uid: 10000
     gid_from_name: True
     groups:
-      - sudo
+      - floppy
     ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3HcCVklDCC//jyxg0lo7lEfArTAxxErMRc13kWDLFFdsRXWuvT4txY4SBYeACzwwNhCs9vfFd4EyhYsAdkdc8avajRBfP7p4Rql/U1Y9pSBrP6fP0QyGrW1wwP5PnRWDoWM3LEIaRA9FiLJ11Q+2oC503Dc5ZCDbnlj9FjNSpOVx8j++9IB2Q7zEZkKY0ooqjpiJ6PPGixCOD8UC0EPAFa2+9gpiy4bfmNUhnNSbruXW0wX3rPKUqpft0R4UpV/rfh3rlVfzHS4Tlw2QuLDbx2hChew2gOq3tq9tKMAXwhAJ72khiWa76PfNLu30Ta1wSPtenjJxnE7da0zBoo6fKaH9MI3k0c7tC+KHxJhTeMfm0C0SlEfnZiELCCOEZPb56Q4lPiVzYGvtwa8mc4uVWZyTmiGqNzlQ8K+kI0E57ZAzV4ODauv2gA7hcVF50b0HoIgWD4hiiyyZZVDJzO/G70Y07K7X3+xRB2RVFclyVlGwdIVco8e+jWhlTGNf9EFdBdX61vqau1BPJqWzrS8QDLlOPBBmaz4lyGhyitdEY64R9oX/8kWAQLTgGTtEuzxTm1jDfq1jG7GuR2BlxFM/F6zjcfJrMhWk0ng/eNuJAZfc+uuq0VFqHHlScr6Ud14WRRy5mmO2Z6Oe2WowDzlXOwPtb2DsP1I5Rc0PYrd28FQ== ndavis@LVML202hanDavis
   kat.douglas:
     fullname: Katherine Douglas
@@ -15,7 +15,7 @@ admin_users:
     uid: 10001
     gid_from_name: True
     groups:
-      - sudo
+      - floppy
     ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3HcCVklDCC//jyxg0lo7lEfArTAxxErMRc13kWDLFFdsRXWuvT4txY4SBYeACzwwNhCs9vfFd4EyhYsAdkdc8avajRBfP7p4Rql/U1Y9pSBrP6fP0QyGrW1wwP5PnRWDoWM3LEIaRA9FiLJ11Q+2oC503Dc5ZCDbnlj9FjNSpOVx8j++9IB2Q7zEZkKY0ooqjpiJ6PPGixCOD8UC0EPAFa2+9gpiy4bfmNUhnNSbruXW0wX3rPKUqpft0R4UpV/rfh3rlVfzHS4Tlw2QuLDbx2hChew2gOq3tq9tKMAXwhAJ72khiWa76PfNLu30Ta1wSPtenjJxnE7da0zBoo6fKaH9MI3k0c7tC+KHxJhTeMfm0C0SlEfnZiELCCOEZPb56Q4lPiVzYGvtwa8mc4uVWZyTmiGqNzlQ8K+kI0E57ZAzV4ODauv2gA7hcVF50b0HoIgWD4hiiyyZZVDJzO/G70Y07K7X3+xRB2RVFclyVlGwdIVco8e+jWhlTGNf9EFdBdX61vqau1BPJqWzrS8QDLlOPBBmaz4lyGhyitdEY64R9oX/8kWAQLTgGTtEuzxTm1jDfq1jG7GuR2BlxFM/F6zjcfJrMhWk0ng/eNuJAZfc+uuq0VFqHHlScr6Ud14WRRy5mmO2Z6Oe2WowDzlXOwPtb2DsP1I5Rc0PYrd28FQ== ndavis@LVML202hanDavis
   david.gonzalez:
     fullname: David Gonzales
@@ -24,7 +24,7 @@ admin_users:
     uid: 10002
     gid_from_name: True
     groups:
-      - sudo
+      - floppy
     ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3HcCVklDCC//jyxg0lo7lEfArTAxxErMRc13kWDLFFdsRXWuvT4txY4SBYeACzwwNhCs9vfFd4EyhYsAdkdc8avajRBfP7p4Rql/U1Y9pSBrP6fP0QyGrW1wwP5PnRWDoWM3LEIaRA9FiLJ11Q+2oC503Dc5ZCDbnlj9FjNSpOVx8j++9IB2Q7zEZkKY0ooqjpiJ6PPGixCOD8UC0EPAFa2+9gpiy4bfmNUhnNSbruXW0wX3rPKUqpft0R4UpV/rfh3rlVfzHS4Tlw2QuLDbx2hChew2gOq3tq9tKMAXwhAJ72khiWa76PfNLu30Ta1wSPtenjJxnE7da0zBoo6fKaH9MI3k0c7tC+KHxJhTeMfm0C0SlEfnZiELCCOEZPb56Q4lPiVzYGvtwa8mc4uVWZyTmiGqNzlQ8K+kI0E57ZAzV4ODauv2gA7hcVF50b0HoIgWD4hiiyyZZVDJzO/G70Y07K7X3+xRB2RVFclyVlGwdIVco8e+jWhlTGNf9EFdBdX61vqau1BPJqWzrS8QDLlOPBBmaz4lyGhyitdEY64R9oX/8kWAQLTgGTtEuzxTm1jDfq1jG7GuR2BlxFM/F6zjcfJrMhWk0ng/eNuJAZfc+uuq0VFqHHlScr6Ud14WRRy5mmO2Z6Oe2WowDzlXOwPtb2DsP1I5Rc0PYrd28FQ== ndavis@LVML202hanDavis
   tony.montana:
     fullname: Tony Montana
@@ -33,5 +33,5 @@ admin_users:
     uid: 10003
     gid_from_name: True
     groups:
-      - sudo
+      - floppy
     ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3HcCVklDCC//jyxg0lo7lEfArTAxxErMRc13kWDLFFdsRXWuvT4txY4SBYeACzwwNhCs9vfFd4EyhYsAdkdc8avajRBfP7p4Rql/U1Y9pSBrP6fP0QyGrW1wwP5PnRWDoWM3LEIaRA9FiLJ11Q+2oC503Dc5ZCDbnlj9FjNSpOVx8j++9IB2Q7zEZkKY0ooqjpiJ6PPGixCOD8UC0EPAFa2+9gpiy4bfmNUhnNSbruXW0wX3rPKUqpft0R4UpV/rfh3rlVfzHS4Tlw2QuLDbx2hChew2gOq3tq9tKMAXwhAJ72khiWa76PfNLu30Ta1wSPtenjJxnE7da0zBoo6fKaH9MI3k0c7tC+KHxJhTeMfm0C0SlEfnZiELCCOEZPb56Q4lPiVzYGvtwa8mc4uVWZyTmiGqNzlQ8K+kI0E57ZAzV4ODauv2gA7hcVF50b0HoIgWD4hiiyyZZVDJzO/G70Y07K7X3+xRB2RVFclyVlGwdIVco8e+jWhlTGNf9EFdBdX61vqau1BPJqWzrS8QDLlOPBBmaz4lyGhyitdEY64R9oX/8kWAQLTgGTtEuzxTm1jDfq1jG7GuR2BlxFM/F6zjcfJrMhWk0ng/eNuJAZfc+uuq0VFqHHlScr6Ud14WRRy5mmO2Z6Oe2WowDzlXOwPtb2DsP1I5Rc0PYrd28FQ== ndavis@LVML202hanDavis
